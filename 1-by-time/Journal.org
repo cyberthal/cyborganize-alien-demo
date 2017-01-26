@@ -301,3 +301,127 @@ Ripley stands...looks at Ash. Walks out.
 [2017-01-26 Thu 09:01]
 
 ******* 
+**** sprinted [2017-01-26 Thu 09:03]
+
+***** proc'd sprinted. [2017-01-26 Thu 09:59]
+
+***** review notes to orient
+
+****** sort
+
+****** todo plan for confronting Dallas
+
+secret message that Dallas received from Mother
+
+must've been telling him that the distress beacon might have extraterrestrial origin
+
+that's why he brooked no argument about checking it out
+
+and most tellingly, that's why he had the expedition bring weapons along.
+
+Still strange that he brought Lambert instead of Ash on the expedition.
+
+So Dallas knew something in advance.
+
+But it's likely that Mother had another, different message for Ash.
+
+Or maybe Ash knew before the expedition even set out.
+
+But that's a bridge too far for Dallas right now.
+
+To initiate a discussion, just tell him this:
+
+"Your secret message from Mother told you the transmission might be extraterrestrial in origin, didn't it. That's why you had the expedition take weapons."
+
+This puts the blame back on Dallas for Kane's condition, puts him on the psychological defensive. 
+
+Now to defuse that defensiveness:
+
+"I've been watching Ash. I think he Mother had a message for him too - a very different one."
+
+Dallas may object that this is about opening the hatch.
+
+"Forget about the hatch. Do you know what Ash said while you were away?"
+
+Then quote Ash: "What difference does it make. If it's a warning, they'll know before you can get there."
+
+Go through your suspicions: 
+
+"I think Ash wants to study the organism and doesn't care about our lives. 
+
+I think he already knew it was a warning, but withheld that information so that you would go forward without adequate caution.
+
+I think he's the one responsible for Kane's current condition.
+
+How could I, a Warrant Officer, figure out that it was a warning, with Mother's help, before the Science Officer?
+
+I know you do care about our lives. That's why I need you to believe me. We've got an alien that's already incapacitated one of us, and a possible traitor. I am afraid."
+
+[2017-01-26 Thu 11:13]
+
+****** continue sort
+
+******* reasoning through implications of evidence: ship, egg, facehugger
+
+ship's age unknown
+could be very old
+probably is, considering no contact with alien race all this time
+
+which would mean eggs are also very old
+
+if ship is warning about eggs, then ship and eggs aren't allied
+
+eggs aren't stored in ship. they're stored in a den beneath.
+
+so we've discovered two alien races, not one. and one ate the other. then went into hibernation.
+
+fact: facehugger instantly overcame human suit defenses and adapted to human physiology to such a degree that it kept its first subject alive.
+
+thus either facehuggers are designed for humans, or they are super-advanced
+
+leans towards super-advanced.
+
+we are witnessing the beginning of a parasitical lifecyle, from egg to infection vector.
+
+unknown whether the next phase of the lifecycle will successfully eventuate.
+possibly not, given the great age, harsh planetary conditions, and unfamiliar biology
+
+however, possibly so, given amazing capabilities demonstrated so far.
+safest to assume next stage of life form will eventuate
+and that the end game is another derelict ship
+therefore, whole crew is at risk
+
+recommended solution: dump Kane and take off.
+alternate solution: deep freeze Kane and take off.
+
+******** todo freeze kane ASAP
+
+******** todo share suspicions on facehugger lifecycle with Dallas
+
+[2017-01-26 Thu 11:42]
+
+******* continue sort
+******* likely saboteur: Ash
+******* Why would Yutani Corp risk such an expensive ship?
+
+because first contact is worth it
+
+need something isolated, small crew, that unsuspiciously can travel deep space routes
+
+need something they can slip a science officer on board of
+
+and that has an advanced AI
+
+guess they figure they know where it's gonna be, and they can always pick it up later.
+
+perhaps most importantly: 
+
+If they make contact with live aliens, they don't want to give them something nimble, mobile, stealthy and military.
+
+They want to give them a barge.
+
+A refinery probably doesn't give them much they can use.
+
+[2017-01-26 Thu 11:50]
+******* done sorting and brainstorming 
+[2017-01-26 Thu 11:51]

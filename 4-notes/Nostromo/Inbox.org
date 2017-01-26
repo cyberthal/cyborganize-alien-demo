@@ -1,0 +1,9 @@
+*** offset
+
+**** Nostromo details
+
+Factory Starship
+
+Function:           Petroleum tanker and Refinery.
+Capacity:           2000,000,000 tons.
+Length:             One and one half kilometers.
