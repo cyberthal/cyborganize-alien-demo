@@ -1,0 +1,7 @@
+
+* sprinting [2017-01-26 Thu 09:03]
+** Todo
+
+create new sprinted
+proc sprinted
+think about what happened
