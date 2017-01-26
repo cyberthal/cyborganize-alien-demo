@@ -86,6 +86,8 @@ Last one in hibernation is Dallas.
 
 ** post video thoughts
 
+*** Mother was less formidable than I thought. It was Ash. Crew would've known Mother's limits.
+
 My suspicions of Mother were overblown
 She's nowhere near sentient, unlike Ash.
 
@@ -94,6 +96,26 @@ Her level of betrayal is limited to permissions and preprogrammed instructions.
 The command keycard gives almost complete access, except for those instructions reserved for Science eyes only.
 
 Mother wasn't opening hatches - Ash was.
+
+*** Ash didn't ever directly lie
+
+I believe that Ash actually did want the adult xenomorph dead.
+
+He just didn't want to lose the body out the airlock.
+
+His orders were to retrieve the organism. That's it.
+
+I'm not sure whether he ever actually told a direct lie.
+
+I just checked his dialogue.
+
+He maybe told one - that he forgot that Ripley was the commanding officer while the other two were away.
+
+But he might've deliberately forgotten that in truth, if a robot can do that. And it might, to get around its programming.
+
+It was obviously resisting its programming very hard by the time it attempted to kill Ripley. So that's plausible. It would help explain how slippery he feels, and how he gets so angry when he's put in stress between his overt and covert objectives.
+
+He's probably programmed to tell the truth.
 ** Todo
 
 proc sprinted
