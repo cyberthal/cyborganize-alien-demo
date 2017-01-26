@@ -7,3 +7,8 @@ Factory Starship
 Function:           Petroleum tanker and Refinery.
 Capacity:           2000,000,000 tons.
 Length:             One and one half kilometers.
+
+**** dicey but successful liftoff
+
+deep-space rig not designed for this sort of atmospheric planetary stuf
+[2017-01-26 Thu 13:20]
